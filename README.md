@@ -8,4 +8,10 @@ $ pkg update upgrade
 
 $ pkg install git nano
 
-$ 
+$ pkg install php bash
+
+$ git clone https://github.com/menang22/enc-html
+
+$ cd enc-html
+
+$ php
