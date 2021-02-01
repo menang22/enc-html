@@ -20,11 +20,11 @@ $ php enc.php
 
 1.Pertama copy file html yang ingin di encrypt ke folder,enc-html
 
-Caranya: ketik di termux,cp file.html enc-html
+Caranya: ketik di termux, cp file.html enc-html
 
 2.Setelah itu masuk ke script encrypt html tersebut
 
-3.Kemudian kalian tinggal ketik di situ nama file html yang ingin kalian encrypt,di folder enc-html
+3.Kemudian kalian tinggal ketik di situ nama file html yang ingin kalian encrypt, di folder enc-html
 
 4.Setelah itu tekan enter lalu salin semua kode yang ada di situ, kecuali tulisannya
 
@@ -40,7 +40,7 @@ Ok Thanks😌😌😌
 
 @ menang22: https://github.com/menang22
 
-@ bangdanx: https://github.com/bangdanz
+@ bangdanz: https://github.com/bangdanz
 
 @ omcyber: https://github.com/omcyber
 
